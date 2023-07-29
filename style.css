@@ -474,6 +474,11 @@ font-size: xx-large;
 {
   color: black;
 }
+.vert h1 ,.jaune h1 , .tradivert h1 , .tradijaune h1
+{
+  color: black;
+}
+
 
 
 
